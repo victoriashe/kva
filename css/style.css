@@ -1,0 +1,52 @@
+body {
+  background-color: #221b22;
+  color: #d2e7f8;
+}
+
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h1,
+h2 {
+  padding: 30px;
+  color: #ffffff;
+}
+p {
+  font-size: 18px;
+}
+.img-block {
+  object-fit: cover;
+  height: 20rem;
+}
+.row-center {
+  display: flex;
+  justify-content: center;
+}
+.carousel-control-next {
+  /*right: 15rem;*/
+}
+.carousel-control-prev {
+  /*left: 15rem;*/
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #808080;
+}
+.bce {
+  background-color: #a84949;
+}
+
+.card {
+  background-color: #443c44;
+}
+.card-text {
+  color: #94c2e7;
+}
+.card-title {
+  color: #ffffff;
+}
+img.resize {
+  width: 100px;
+  height: auto;
+}
